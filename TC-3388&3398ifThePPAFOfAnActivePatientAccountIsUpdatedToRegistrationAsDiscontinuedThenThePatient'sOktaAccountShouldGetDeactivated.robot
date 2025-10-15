@@ -1,0 +1,1 @@
+TC-3388&3398ifThePPAFOfAnActivePatientAccountIsUpdatedToRegistrationAsDiscontinuedThenThePatient'sOktaAccountShouldGetDeactivated.robot
