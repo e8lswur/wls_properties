@@ -1,0 +1,1 @@
+TC-3397whenAPrescriber,Patient'sOktaAccountGetsDeactivatedTheClientStatusOfThePrescriber,PatientShouldBeAutomaticallyUpdatedToInactive.robot
